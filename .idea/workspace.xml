@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a412c35-0af1-40c3-a825-55b71da1ff80" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgTestImp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/main/AStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/main/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/main/MaxArrStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/main/MaxSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/matrix/MatrixMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clrs/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/main/AStart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/main/Heap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/main/MaxArrStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/main/MaxSubarray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/matrix/MatrixMultiply.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/sort/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/sort/InsertionSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/sort/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/clrs/sort/QuickSort.class" afterDir="false" />
-    </list>
+    <list default="true" id="9a412c35-0af1-40c3-a825-55b71da1ff80" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -343,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
