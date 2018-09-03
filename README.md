@@ -1,2 +1,2 @@
 # CLRS
-Solutions to JAVA
+Solutions for JAVA
